@@ -22,8 +22,8 @@ template = ## %NAME
 
 ## Make An Executable For Each Scope 
 
-`$ sudo ln -s /opt/notes/main.py ~/bin/notes`\
-`$ sudo ln -s /opt/notes/main.py ~/bin/journal`
+`$ ln -s /opt/notes/main.py ~/bin/notes`\
+`$ ln -s /opt/notes/main.py ~/bin/journal`
     
 
 ## Edit Notes
