@@ -60,7 +60,7 @@ elif single(optionArgs) == '--find' and single(stringArgs):
         findInDir(expanduser(config(scope, 'basepath')), query)
 
 
-## Open notes
+## Edit notes
 # $ notes idm
 # - scope: from appname
 # - name: idm
